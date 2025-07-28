@@ -1,2 +1,2 @@
-product_name,product_description
-"Foo bar","Product 1 description é, ñ, ü, ç, ø, Æ"
+id,title,image_url,click_url
+"1","Product 1 description é, ñ, ü, ç, ø, Æ","Product 1 description é, ñ, ü, ç, ø, Æ","Product 1 description é, ñ, ü, ç, ø, Æ"
